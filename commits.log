@@ -1,0 +1,92 @@
+commit 9e3ce0e9b6c06e87f72e00da348a1b6901f25f37
+Author: diego añes <nicolasdiego28@gmail.com>
+Date:   Wed Nov 9 22:56:28 2022 -0300
+
+    Agregando 2 parrafos
+
+commit 4adf14f5c46b7d613eacef78f1939da90d93d46a
+Merge: 720ea60 09df9ad
+Author: diego añes <nicolasdiego28@gmail.com>
+Date:   Wed Nov 9 22:47:36 2022 -0300
+
+    Resolviendo conflicto en estaciones del año y fecha de inicio
+
+commit 720ea603105938755b6faf7909400af0b16d695a
+Author: diego añes <nicolasdiego28@gmail.com>
+Date:   Wed Nov 9 22:29:33 2022 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 09df9ad860e3b573e8f918f2ead8389354fc09c8
+Author: diego añes <nicolasdiego28@gmail.com>
+Date:   Wed Nov 9 22:29:33 2022 -0300
+
+    Agregando las estaciones del año
+
+commit ff31a70a315fbfbbd740d7674a436afd078e0697
+Merge: 0b03203 f258311
+Author: diego añes <nicolasdiego28@gmail.com>
+Date:   Wed Nov 9 14:25:29 2022 -0300
+
+    Resolviendo conflictos merge main/html en el documento index.html
+
+commit f258311d686a29d01b056ee39518ddcfcbcc8fb5
+Author: diego añes <nicolasdiego28@gmail.com>
+Date:   Mon Nov 7 22:46:07 2022 -0300
+
+    Agregando index.js al index.html
+
+commit 0b03203eaa41f57d94c1138968f07c0aec7c4faf
+Author: diego añes <nicolasdiego28@gmail.com>
+Date:   Mon Nov 7 22:40:38 2022 -0300
+
+    Agregando style css al index.html
+
+commit 2689ffff7852cff701b64a11877cdd27fb071c55
+Merge: 70384dc bede21a
+Author: diego añes <nicolasdiego28@gmail.com>
+Date:   Fri Nov 4 14:44:18 2022 -0300
+
+    Merge branch 'js'
+
+commit bede21afc2b9ab2614931f3bab9562fd17062d65
+Author: diego añes <nicolasdiego28@gmail.com>
+Date:   Fri Nov 4 14:36:31 2022 -0300
+
+    creando index.js
+
+commit 70384dc71c908e3ec57c8cc010d5b5217cdfa290
+Author: diego añes <nicolasdiego28@gmail.com>
+Date:   Fri Nov 4 14:22:50 2022 -0300
+
+    creando archivo index.html
+
+commit 3052f596b8210b68563adaab1c4384e7ec571395
+Author: diego añes <nicolasdiego28@gmail.com>
+Date:   Wed Nov 2 15:06:13 2022 -0300
+
+    ignorando archivos .exe
+
+commit 33a95f14e7db5e71e3676d37416251cc9d57b3c8
+Author: diegote10s <111035403+diegote10s@users.noreply.github.com>
+Date:   Mon Oct 31 15:16:12 2022 -0300
+
+    Creando liciencia del repositorio
+
+commit 9a56d9adf1ebb57e01e8a70434904f3195c89299
+Author: diego añes <nicolasdiego28@gmail.com>
+Date:   Mon Oct 31 14:41:08 2022 -0300
+
+    Agregando mas contenido al readme
+
+commit efefbffbc2be6cb20848d15b87f58f85d931b833
+Author: diego añes <nicolasdiego28@gmail.com>
+Date:   Mon Oct 31 14:21:55 2022 -0300
+
+    Agregando contenido inicial al readme
+
+commit 2fb730ef0abe686bccc530c4286445e1c52f9010
+Author: diego añes <nicolasdiego28@gmail.com>
+Date:   Mon Oct 31 14:17:26 2022 -0300
+
+    primer commit
